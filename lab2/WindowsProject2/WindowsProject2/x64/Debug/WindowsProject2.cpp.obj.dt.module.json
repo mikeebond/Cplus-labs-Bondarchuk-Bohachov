@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WindowsProject2\\x64\\Debug\\WindowsProject2.obj",
+            "outputs": [
+                "WindowsProject2\\x64\\Debug\\WindowsProject2.cpp.obj.dt.module.json",
+                "WindowsProject2\\x64\\Debug\\WindowsProject2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

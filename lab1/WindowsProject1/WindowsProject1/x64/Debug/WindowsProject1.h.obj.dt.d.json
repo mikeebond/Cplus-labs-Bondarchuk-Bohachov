@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\vsrepos\\windowsproject1\\windowsproject1.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\vsrepos\\windowsproject1\\resource.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
