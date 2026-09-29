@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab3_benchmark\\x64\\Debug\\Lab3_benchmark.obj",
+            "outputs": [
+                "Lab3_benchmark\\x64\\Debug\\Lab3_benchmark.cpp.obj.dt.module.json",
+                "Lab3_benchmark\\x64\\Debug\\Lab3_benchmark.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

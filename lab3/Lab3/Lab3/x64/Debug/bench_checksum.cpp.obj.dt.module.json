@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab3\\x64\\Debug\\bench_checksum.obj",
+            "outputs": [
+                "Lab3\\x64\\Debug\\bench_checksum.cpp.obj.dt.module.json",
+                "Lab3\\x64\\Debug\\bench_checksum.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
