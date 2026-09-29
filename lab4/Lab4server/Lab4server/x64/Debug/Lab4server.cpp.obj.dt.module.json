@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab4server\\x64\\Debug\\Lab4server.obj",
+            "outputs": [
+                "Lab4server\\x64\\Debug\\Lab4server.cpp.obj.dt.module.json",
+                "Lab4server\\x64\\Debug\\Lab4server.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
