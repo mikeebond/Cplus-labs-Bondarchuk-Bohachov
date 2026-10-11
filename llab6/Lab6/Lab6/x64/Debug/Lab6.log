@@ -1,0 +1,6 @@
+﻿  Client.cpp
+  Server.cpp
+C:\VSrepos\Lab6\Client.cpp(165,1): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\VSrepos\Lab6\Client.cpp(159,12): error C2121: '#': invalid character: possibly the result of a macro expansion
+C:\VSrepos\Lab6\Client.cpp(159,12): error C2059: syntax error: 'if'
+  Generating Code...
